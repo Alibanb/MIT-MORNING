@@ -1,0 +1,31 @@
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
+img{
+    width: 80%;
+    height: 600px;
+    margin-left: 90px;
+}
+div{
+    background-color: #e81717;
+    padding-left: 30px;
+    margin-right: 50px;
+}
+.division1{
+    background-color: chartreuse;
+}
+.division1{
+    background-color: #e81717;
+}
+.division3{
+    background-color: yellow;
+}
+#main{
+    background-color: saddlebrown;
+    display: flex;
+    padding: 30px;
+}
+.imagelol{
+    display: flex;
+}
